@@ -38,3 +38,12 @@
     ├── images
     │   └── shop1.jpg
     └── index.html
+
+
+    -------------------------------------------------------------------
+
+    directly import this code in ec2 server and run 
+
+    cd /root
+docker-compose up --build -d
+    
